@@ -21,3 +21,7 @@ CodeWars solutions
 
 ## Мои показатели Codewars
 ![Codewars Stats](https://www.codewars.com/users/Alma-Nemi/badges/large)
+
+## GitHub
+![GitHub last commit](https://img.shields.io/github/last-commit/Alma-Nemi/codewars)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alma-Nemi/codewars)
