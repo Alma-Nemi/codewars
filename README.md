@@ -7,8 +7,7 @@ CodeWars solutions
 ## Прогресс
 | Задача                   | Уровень | Ссылка на решение       | Дата       |
 |--------------------------|---------|-------------------------|------------|
-| [Multiply](8-kyu/multiply.js) | 8 kyu   | [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004) | 25.03.2025 |
-| [Disemvowel Trolls](7-kyu/disemvowel-trolls.js) | 7 kyu | [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e) | 25.03.2025 |
+| [Multiply](8-kyu/multiply.js) | 8 kyu   | [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004) | 05.06.2025 |
 
 ## Как использовать
 1. Каждая задача хранится в папке по уровню сложности (например, `8-kyu/multiply.js`).
