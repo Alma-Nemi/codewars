@@ -1,6 +1,6 @@
 # Codewars JavaScript Solutions
 
-![Test Status](https://github.com/Alma-Nemi/codewars-js-solutions/actions/workflows/test.yml/badge.svg)
+![Test Status](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alma-Nemi/codewars)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alma-Nemi/codewars)
 
