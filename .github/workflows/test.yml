@@ -18,3 +18,9 @@ jobs:
         run: |
           echo "=== Testing 8-kyu solutions ==="
           node 8-kyu/multiply.js
+          node 8-kyu/even-or-odd.js
+
+          echo "=== Testing 7-kyu solutions ==="
+          node 7-kyu/disemvowel-trolls.js
+          node 7-kyu/list-filtering.js
+          node 7-kyu/isograms.js
