@@ -18,3 +18,9 @@
 | [Disemvowel Trolls](7-kyu/disemvowel-trolls.js) | 7 kyu | [Задача](https://www.codewars.com/kata/52fba66badcd10859f00097e) | [Код](7-kyu/disemvowel-trolls.js) | ✅ | 05.06.2025 |
 | [List Filtering](7-kyu/list-filtering.js) | 7 kyu | [Задача](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | [Код](7-kyu/list-filtering.js) | ✅ | 05.06.2025 |
 | [Isograms](7-kyu/isograms.js) | 7 kyu | [Задача](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Код](7-kyu/isograms.js) | ✅ | 05.06.2025 |
+
+
+## Как использовать
+1. **Запуск решения**:
+   ```bash
+   node 8-kyu/multiply.js
