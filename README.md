@@ -15,11 +15,11 @@
 
 | Задача                   | Уровень | Тесты | Последний запуск | Решение |
 |--------------------------|---------|-------|------------------|---------|
-| [Multiply](8-kyu/multiply.js) | 8 kyu | ![Multiply Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](8-kyu/multiply.js) |
-| [Even or Odd](8-kyu/evenOrOdd.js) | 8 kyu | ![Even Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](8-kyu/evenOrOdd.js) |
-| [Disemvowel Trolls](7-kyu/disemvowel-trolls.js) | 7 kyu | ![Disemvowel Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](7-kyu/disemvowel-trolls.js) |
-| [List Filtering](7-kyu/list-filtering.js) | 7 kyu | ![Filter Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](7-kyu/list-filtering.js) |
-| [Isograms](7-kyu/isograms.js) | 7 kyu | ![Isogram Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](7-kyu/isograms.js) |
+| [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | 8 kyu | ![Multiply Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](8-kyu/multiply.js) |
+| [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | 8 kyu | ![Even Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](8-kyu/evenOrOdd.js) |
+| [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) | 7 kyu | ![Disemvowel Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](7-kyu/disemvowel-trolls.js) |
+| [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | 7 kyu | ![Filter Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](7-kyu/list-filtering.js) |
+| [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | 7 kyu | ![Isogram Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test.yml/badge.svg?event=push&branch=main) | 05.06.2025 | [Код](7-kyu/isograms.js) |
 
 ## 🛠 Как использовать
 
