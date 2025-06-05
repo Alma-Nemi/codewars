@@ -1,0 +1,12 @@
+name: Test Solutions
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+      - run: node 8-kyu/multiply.js  # Пример для теста
