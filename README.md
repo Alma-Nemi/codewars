@@ -1,4 +1,4 @@
-# Codewars JavaScript Solutions
+# Codewars JS Solutions
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alma-Nemi/codewars?color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alma-Nemi/codewars?color=lightgrey)
