@@ -6,7 +6,7 @@
 
 📌 **Purpose**: Solve the problems of Codewars and track progress.
 
-## 📊My indicators
+## 📊 My indicators
 ![Codewars Stats](https://www.codewars.com/users/Alma-Nemi/badges/large)
 
 ## 🚀 The progress of decisions
