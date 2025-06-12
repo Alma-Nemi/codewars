@@ -4,14 +4,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alma-Nemi/codewars?color=lightgrey)
 ![Auto Update](https://img.shields.io/badge/status-auto--updated-success)
 
-📌 **Цель**: Решать задачи Codewars и отслеживать прогресс для it-incubator.
+📌 **Purpose**: Solve the problems of Codewars and track progress.
 
-## 📊 Мои показатели
+## 📊My indicators
 ![Codewars Stats](https://www.codewars.com/users/Alma-Nemi/badges/large)
 
-## 🚀 Прогресс решений
+## 🚀 The progress of decisions
 
-| Задача                   | Уровень | Тесты | Последний запуск | Решение |
+| Task                   | Level | Tests | Last launch | Solution |
 |--------------------------|---------|-------|------------------|---------|
 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | 8 kyu | ![Multiply Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test-multiply.yml/badge.svg) | 05.06.2025 | [Код](8-kyu/multiply.js) |
 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | 8 kyu | ![Even Test](https://github.com/Alma-Nemi/codewars/actions/workflows/test-evenodd.yml/badge.svg) | 05.06.2025 | [Код](8-kyu/even-or-odd.js) |
